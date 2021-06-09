@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on didi
+- 🌱 I’m currently learning design mode
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: 1660882202@qq.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ..
 <!--
 **chenfeng/chenfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
